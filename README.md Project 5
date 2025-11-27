@@ -1,0 +1,16 @@
+# Python Project 5 (Midterm)
+
+# Project 1
+
+- This program allows the user to enter the number of books purchased in a month and calculates the reward points earned based on a fixed points system.
+- It uses a simple Tkinter interface with input validation and displays the result directly on the screen.
+
+# Project 2.1
+
+- This program reads data from a CSV file and allows the user to view calendar dates, building names, or faculty names by clicking buttons.
+- The results are displayed inside a Tkinter window along with a CCSU logo.
+
+# Project 2.2
+
+- This is an extended version of the previous data viewer that includes additional buttons for School of Business and MIS Department data.
+-  It improves layout, formatting, and error handling while displaying filtered CSV data inside a professional-looking Tkinter interface.
